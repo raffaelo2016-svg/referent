@@ -4,9 +4,7 @@ export default function Home() {
       <section className="intro" aria-labelledby="title">
         <p className="eyebrow">Next.js</p>
         <h1 id="title">Referent</h1>
-        <p className="lead">
-          Минимальное приложение готово к запуску, развитию и деплою.
-        </p>
+        <p className="lead">Я изучаю Next.js</p>
       </section>
     </main>
   );
